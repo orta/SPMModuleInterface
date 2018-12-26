@@ -1,0 +1,97 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Commandant",
+        "repositoryURL": "https://github.com/Carthage/Commandant.git",
+        "state": {
+          "branch": null,
+          "revision": "07cad52573bad19d95844035bf0b25acddf6b0f6",
+          "version": "0.15.0"
+        }
+      },
+      {
+        "package": "Logger",
+        "repositoryURL": "https://github.com/f-meloni/Logger",
+        "state": {
+          "branch": null,
+          "revision": "cdb2adb8aadfae75e2a0eb82318b5980b5d5eba5",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble.git",
+        "state": {
+          "branch": null,
+          "revision": "cd6dfb86f496fcd96ce0bc6da962cd936bf41903",
+          "version": "7.3.1"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick.git",
+        "state": {
+          "branch": null,
+          "revision": "5fbf13871d185526993130c3a1fad0b70bfe37ce",
+          "version": "1.3.2"
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "8fc088dcf72802801efeecba76ea8fb041fb773d",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "SourceKitten",
+        "repositoryURL": "https://github.com/jpsim/SourceKitten",
+        "state": {
+          "branch": null,
+          "revision": "176f04295a09324673245d8ec0afcce21ace8722",
+          "version": "0.22.0"
+        }
+      },
+      {
+        "package": "SwiftFormat",
+        "repositoryURL": "https://github.com/nicklockwood/SwiftFormat",
+        "state": {
+          "branch": null,
+          "revision": "67219a30460f0459bfbe4b21e8bb55cc70bcbf50",
+          "version": "0.37.1"
+        }
+      },
+      {
+        "package": "SWXMLHash",
+        "repositoryURL": "https://github.com/drmohundro/SWXMLHash.git",
+        "state": {
+          "branch": null,
+          "revision": "9ba116841126f6c63435beef21a4cd247c32d2e7",
+          "version": "4.7.6"
+        }
+      },
+      {
+        "package": "TestSpy",
+        "repositoryURL": "https://github.com/f-meloni/TestSpy",
+        "state": {
+          "branch": null,
+          "revision": "e0f1e9d4d10080762bb3b5256a94f347e74416f0",
+          "version": "0.3.1"
+        }
+      },
+      {
+        "package": "Yams",
+        "repositoryURL": "https://github.com/jpsim/Yams.git",
+        "state": {
+          "branch": null,
+          "revision": "26ab35f50ea891e8edefcc9d975db2f6b67e1d68",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
